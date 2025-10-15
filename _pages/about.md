@@ -26,7 +26,7 @@ My research interests include:
 - Teacher professional development
 - Generative AI in education
 
-I have published over 60 peer-reviewed journal articles in leading journals such as *Computers & Education*, *Language Learning & Technology*, *The Modern Language Journal*, and *British Journal of Educational Technology*.
+I have published over 60 peer-reviewed journal articles in leading journals such as *Computers & Education*, *Language Learning & Technology*, *The Modern Language Journal*, and *British Journal of Educational Technology*. My work has been cited over 7,300 times according to [Google Scholar](https://scholar.google.com/citations?user=MIajmJMAAAAJ), with an h-index of 32 and i10-index of 60.
 
 # 🔥 News
 - *2025.10*: Five papers accepted to AERA 2025 annual meeting in Denver
