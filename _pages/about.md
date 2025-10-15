@@ -233,7 +233,7 @@ For a complete publication list, please see my [CV](https://scholar.google.com/c
 
 ## Graduated Students
 - Dr. Fangzhou Jin (Ph.D. 2025; University Postgraduate Fellowship)
-- Dr. Ying Hu (Ph.D. MSU, 2024)
+- Dr. [Ying Hu](https://www.uvm.edu/cas/asian/profile/ying-hu) (Ph.D. MSU, 2024; currently Senior Lecturer at University of Vermont)
 - Dr. Keyi Zhou (Ph.D. 2023)
 - Dr. Jiangping Tracey Chen (Ph.D. 2023; 2021 Research Poster Graduate Student Publication Award; currently at Hangzhou Normal University)
 - Dr. Fei He (EdD, 2020)
