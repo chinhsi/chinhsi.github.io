@@ -36,7 +36,7 @@ I have published over 60 peer-reviewed journal articles in leading journals such
 
 # 📝 Publications
 
-I have published over 60 peer-reviewed journal articles and book chapters. Below are selected recent publications (2020-2025). For a complete list, please visit my [Google Scholar profile](https://scholar.google.com/citations?user=MIajmJMAAAAJ).
+I have published over 60 peer-reviewed journal articles and book chapters. My work has been cited over 7,300 times with highly impactful papers receiving 100-698 citations. Below are selected publications organized by citation impact and recency. For a complete list, please visit my [Google Scholar profile](https://scholar.google.com/citations?user=MIajmJMAAAAJ).
 
 ## Journal Articles (2025)
 
@@ -112,21 +112,31 @@ I have published over 60 peer-reviewed journal articles and book chapters. Below
 
 32. **Zhang, Y. & Lin, C.-H.\*** (2020). Motivational profiles and their correlates among students in virtual school foreign language courses. *British Journal of Educational Technology*, 51, 515-530. https://doi.org/10.1111/bjet.12871
 
-## Highly Cited Papers
+## Highly Cited Papers (100+ Citations)
 
-33. **Lin, C.-H.\***, Warschauer, M., & Blake, R. (2016). Language learning through social networks: Perceptions and reality. *Language Learning & Technology*, 20, 124-147. [**269 citations**]
+33. **Zheng, B., Warschauer, M., Lin, C.-H., & Chang, C.** (2016). Learning in one-to-one laptop environments: A meta-analysis and research synthesis. *Review of Educational Research*, 86(4), 1052-1084. https://doi.org/10.3102/0034654316628645 [**698 citations**]
 
-34. **Zheng, B., Warschauer, M., Lin, C.-H., & Chang, C.** (2016). Learning in one-to-one laptop environments: A meta-analysis and research syntheses. *Review of Educational Research*, 86, 1052-1084. https://doi.org/10.3102/0034654316628645 [**600+ citations**]
+34. **Lin, C.-H.\***, Zhang, Y., & Zheng, B. (2017). The roles of learning strategies and motivation in online language learning: A structural equation modeling analysis. *Computers & Education*, 113, 75-85. https://doi.org/10.1016/j.compedu.2017.05.014 [**355 citations**]
 
-35. **Lin, C.-H.\***, Zhang, Y., & Zheng, B. (2017). The role of learning strategies and motivation in online language learning: A structural equation modeling analysis. *Computers & Education*, 113, 75-85. https://doi.org/10.1016/j.compedu.2017.05.014 [**320+ citations**]
+35. **Lin, C.-H.\*** (2012). Language learning through social networks: Perceptions and reality. *Doctoral dissertation, University of California, Irvine*. [**302 citations**]
 
-36. **Lin, C.-H.\***, Zheng, B., & Zhang, Y. (2017). Interactions and learning outcomes in online language courses. *British Journal of Educational Technology*, 48, 730-748. https://doi.org/10.1111/bjet.12457 [**147 citations**]
+36. **Sun, Z., Lin, C.-H.\***, You, J., Shen, H., Qi, S., & Luo, L. (2017). Improving the English-speaking skills of young learners through mobile social networking. *Computer Assisted Language Learning*, 30(3-4), 304-324. https://doi.org/10.1080/09588221.2017.1308384 [**268 citations**]
 
-37. **Liu, H., Lin, C.-H.\***, & Zhang, D. (2017). Pedagogical beliefs and attitudes toward information and communication technology: A survey of teachers of English as a foreign language in China. *Computer Assisted Language Learning*, 30, 745-774. https://doi.org/10.1080/09588221.2017.1347572 [**198 citations**]
+37. **Liu, H., Lin, C.-H.\***, & Zhang, D. (2017). Pedagogical beliefs and attitudes toward information and communication technology: A survey of teachers of English as a foreign language in China. *Computer Assisted Language Learning*, 30(8), 745-765. https://doi.org/10.1080/09588221.2017.1347572 [**236 citations**]
 
-38. **Sun, Z., Lin, C.-H.\***, You, J., Shen, H., Qi, S., & Luo, L. (2017). Improving English speech skills through mobile social networking. *Computer Assisted Language Learning*, 30(3-4), 304-324. https://doi.org/10.1080/09588221.2017.1308384 [**231 citations**]
+38. **Zhang, Y., & Lin, C.-H.\*** (2020). Student interaction and the role of the teacher in a state virtual high school: What predicts online learning satisfaction? *Technology, Pedagogy and Education*, 29(1), 57-71. https://doi.org/10.1080/1475939X.2019.1694061 [**188 citations**]
 
-39. **Godfroid, A., Lin, C.-H.\***, & Ryu, C. (2017). Hearing and seeing tone through color: An efficacy study of web-based, multimodal Chinese tone perception training. *Language Learning*, 67, 819-857. https://doi.org/10.1111/lang.12246 [**59 citations**]
+39. **Zheng, B., Lin, C.-H.\***, & Kwon, J. (2020). The impact of learner-, instructor-, and course-level factors on online learning. *Computers & Education*, 150, 103851. https://doi.org/10.1016/j.compedu.2020.103851 [**177 citations**]
+
+40. **Sun, Z., Lin, C.-H.\***, Wu, M., Zhou, J., & Luo, L. (2018). A tale of two communication tools: Discussion-forum and mobile instant-messaging apps in collaborative learning. *British Journal of Educational Technology*, 49(2), 248-261. https://doi.org/10.1111/bjet.12571 [**176 citations**]
+
+41. **Lin, C.-H.\***, Zheng, B., & Zhang, Y. (2017). Interactions and learning outcomes in online language courses. *British Journal of Educational Technology*, 48(3), 730-748. https://doi.org/10.1111/bjet.12457 [**166 citations**]
+
+42. **Zheng, B., Lawrence, J., Warschauer, M., & Lin, C.-H.** (2015). Middle school students' writing and feedback in a cloud-based classroom environment. *Technology, Knowledge and Learning*, 20(2), 201-229. https://doi.org/10.1007/s10758-014-9239-z [**134 citations**]
+
+43. **Lin, C.-H.\***, & Warschauer, M. (2015). Online foreign language education: What are the proficiency outcomes? *The Modern Language Journal*, 99(2), 394-397. https://doi.org/10.1111/modl.12234_1 [**127 citations**]
+
+44. **Zhang, Y., Lin, C.-H.\***, Zhang, D., & Choi, Y. (2017). Motivation, strategy, and English as a foreign language vocabulary learning: A structural equation modelling study. *British Journal of Educational Psychology*, 87(1), 57-74. https://doi.org/10.1111/bjep.12135 [**121 citations**]
 
 For a complete publication list, please see my [CV](https://scholar.google.com/citations?user=MIajmJMAAAAJ) or [Google Scholar profile](https://scholar.google.com/citations?user=MIajmJMAAAAJ).
 
