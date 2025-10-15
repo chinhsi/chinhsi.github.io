@@ -3,7 +3,7 @@ name: Get Citation Data
 on:
  workflow_dispatch:  # Allow manual trigger
  schedule:
-  - cron:  '0 8 * * *'  # Run daily at 8:00 UTC
+  - cron:  '0 8 1 * *'  # Run monthly on the 1st at 8:00 UTC
 
 jobs:
   build:
