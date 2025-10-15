@@ -232,13 +232,13 @@ For a complete publication list, please see my [CV](https://scholar.google.com/c
 - Zicong Song (Expected 2026)
 
 ## Graduated Students
-- Fangzhou Jin (2025; University Postgraduate Fellowship)
-- Keyi Zhou (2023)
-- Jiangping Tracey Chen (2023; 2021 Research Poster Graduate Student Publication Award; currently at Hangzhou Normal University)
-- Fei He (EdD, 2020)
-- [Yining Zhang](https://www.dfll.tsinghua.edu.cn/dfllen/info/1060/1107.htm) (MSU, 2018; currently Associate Professor at Tsinghua University)
-- Haixia Liu (MSU, 2019)
-- Ying Hu (MSU, 2024)
+- Dr. Fangzhou Jin (Ph.D. 2025; University Postgraduate Fellowship)
+- Dr. Keyi Zhou (Ph.D. 2023)
+- Dr. Jiangping Tracey Chen (Ph.D. 2023; 2021 Research Poster Graduate Student Publication Award; currently at Hangzhou Normal University)
+- Dr. Fei He (EdD, 2020)
+- Dr. [Yining Zhang](https://www.dfll.tsinghua.edu.cn/dfllen/info/1060/1107.htm) (Ph.D. MSU, 2018; currently Associate Professor at Tsinghua University)
+- Dr. Haixia Liu (Ph.D. MSU, 2019)
+- Dr. Ying Hu (Ph.D. MSU, 2024)
 
 ---
 
