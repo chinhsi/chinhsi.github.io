@@ -237,7 +237,7 @@ For a complete publication list, please see my [CV](https://scholar.google.com/c
 - Dr. Jiangping Tracey Chen (Ph.D. 2023; 2021 Research Poster Graduate Student Publication Award; currently at Hangzhou Normal University)
 - Dr. Fei He (EdD, 2020)
 - Dr. [Yining Zhang](https://www.dfll.tsinghua.edu.cn/dfllen/info/1060/1107.htm) (Ph.D. MSU, 2018; currently Associate Professor at Tsinghua University)
-- Dr. Haixia Liu (Ph.D. MSU, 2019)
+- Dr. Haixia Liu (Ph.D. MSU, 2019; currently Assistant Professor at Grand Valley State University, Brooks College)
 - Dr. Ying Hu (Ph.D. MSU, 2024)
 
 ---
