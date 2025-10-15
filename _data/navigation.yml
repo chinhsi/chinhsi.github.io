@@ -4,19 +4,19 @@ main:
     url: "/#about-me"
 
   - title: "News"
-    url: "/#news"
+    url: "/#-news"
 
   - title: "Publications"
-    url: "/#selected-publications"
+    url: "/#-publications"
 
   - title: "Honors & Awards"
-    url: "/#honors-and-awards"
+    url: "/#-honors-and-awards"
 
   - title: "Education"
-    url: "/#education"
+    url: "/#-education"
 
   - title: "Service"
-    url: "/#academic-service"
+    url: "/#-academic-service"
 
   - title: "Ph.D. Students"
-    url: "/#phd-supervision"
+    url: "/#-phd-supervision"
