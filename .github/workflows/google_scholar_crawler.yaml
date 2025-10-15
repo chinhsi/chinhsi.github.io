@@ -1,13 +1,16 @@
 name: Get Citation Data
 
-on: 
- page_build: 
+on:
+ workflow_dispatch:  # Allow manual trigger
  schedule:
-  - cron:  '0 8 * * *'
+  - cron:  '0 8 * * *'  # Run daily at 8:00 UTC
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    concurrency:
+      group: google-scholar-crawler
+      cancel-in-progress: true
     steps:
     - uses: actions/checkout@v2
     - name: Install Reqs
