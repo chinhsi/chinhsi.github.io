@@ -234,7 +234,7 @@ For a complete publication list, please see my [CV](https://scholar.google.com/c
 ## Graduated Students
 - Fangzhou Jin (2025; University Postgraduate Fellowship)
 - Keyi Zhou (2023)
-- Tracey Chen (2023)
+- Jiangping Tracey Chen (2023; 2021 Research Poster Graduate Student Publication Award; currently at Hangzhou Normal University)
 - Fei He (EdD, 2020)
 - Yining Zhang (MSU, 2018)
 - Haixia Liu (MSU, 2019)
