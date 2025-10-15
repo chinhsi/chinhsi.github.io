@@ -236,7 +236,7 @@ For a complete publication list, please see my [CV](https://scholar.google.com/c
 - Keyi Zhou (2023)
 - Jiangping Tracey Chen (2023; 2021 Research Poster Graduate Student Publication Award; currently at Hangzhou Normal University)
 - Fei He (EdD, 2020)
-- Yining Zhang (MSU, 2018)
+- [Yining Zhang](https://www.dfll.tsinghua.edu.cn/dfllen/info/1060/1107.htm) (MSU, 2018; currently Associate Professor at Tsinghua University)
 - Haixia Liu (MSU, 2019)
 - Ying Hu (MSU, 2024)
 
