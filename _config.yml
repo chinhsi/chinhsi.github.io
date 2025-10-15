@@ -9,7 +9,7 @@
 title                    : "Chin-Hsi Lin"
 description              : "Associate Professor at The University of Hong Kong | Language Learning & Educational Technology"
 repository               : "chinhsi/chinhsi.github.io"
-google_scholar_stats_use_cdn : false
+google_scholar_stats_use_cdn : true
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
@@ -27,7 +27,7 @@ author:
   location         : "Hong Kong"
   employer         : "The University of Hong Kong"
   pubmed           :
-  googlescholar    : # Add your Google Scholar URL if available
+  googlescholar    : "https://scholar.google.com/citations?user=MIajmJMAAAAJ"
   email            : "chinhsi@hku.hk"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
