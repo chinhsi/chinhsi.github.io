@@ -233,12 +233,13 @@ For a complete publication list, please see my [CV](https://scholar.google.com/c
 
 ## Graduated Students
 - Dr. Fangzhou Jin (Ph.D. 2025; University Postgraduate Fellowship)
+- Dr. Ying Hu (Ph.D. MSU, 2024)
 - Dr. Keyi Zhou (Ph.D. 2023)
 - Dr. Jiangping Tracey Chen (Ph.D. 2023; 2021 Research Poster Graduate Student Publication Award; currently at Hangzhou Normal University)
 - Dr. Fei He (EdD, 2020)
-- Dr. [Yining Zhang](https://www.dfll.tsinghua.edu.cn/dfllen/info/1060/1107.htm) (Ph.D. MSU, 2018; currently Associate Professor at Tsinghua University)
 - Dr. [Haixia Liu](https://haixialiu.weebly.com/) (Ph.D. MSU, 2019; currently Assistant Professor at Grand Valley State University, Brooks College)
-- Dr. Ying Hu (Ph.D. MSU, 2024)
+- Dr. [Yining Zhang](https://www.dfll.tsinghua.edu.cn/dfllen/info/1060/1107.htm) (Ph.D. MSU, 2018; currently Associate Professor at Tsinghua University)
+- Dr. Catalina Ji Young Park (Ph.D. MSU, 2016)
 
 ---
 
