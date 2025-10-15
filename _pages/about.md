@@ -26,7 +26,7 @@ My research interests include:
 - Teacher professional development
 - Generative AI in education
 
-I have published over 60 peer-reviewed journal articles in leading journals such as *Computers & Education*, *Language Learning & Technology*, *The Modern Language Journal*, and *British Journal of Educational Technology*. My work has been cited over 7,300 times according to [Google Scholar](https://scholar.google.com/citations?user=MIajmJMAAAAJ), with an h-index of 32 and i10-index of 60.
+I have published over 60 peer-reviewed journal articles in leading journals such as *Computers & Education*, *Language Learning & Technology*, *The Modern Language Journal*, and *British Journal of Educational Technology*. My work has been cited over 4,500 times according to [Google Scholar](https://scholar.google.com/citations?user=MIajmJMAAAAJ), with an h-index of 31 and i10-index of 52. I am ranked in the **top 1% of researchers worldwide in Education (2025)**.
 
 # 🔥 News
 - *2025.10*: Five papers accepted to AERA 2025 annual meeting in Denver
@@ -36,7 +36,7 @@ I have published over 60 peer-reviewed journal articles in leading journals such
 
 # 📝 Publications
 
-I have published over 60 peer-reviewed journal articles and book chapters. My work has been cited over 7,300 times with highly impactful papers receiving 100-698 citations. Below are selected publications organized by citation impact and recency. For a complete list, please visit my [Google Scholar profile](https://scholar.google.com/citations?user=MIajmJMAAAAJ).
+I have published over 60 peer-reviewed journal articles and book chapters. My work has been cited over 4,500 times (h-index: 31, i10-index: 52), with highly impactful papers receiving 100-698 citations. I am ranked in the **top 1% of researchers worldwide in Education (2025)** according to citation metrics. Below are selected publications organized by citation impact and recency. For a complete list, please visit my [Google Scholar profile](https://scholar.google.com/citations?user=MIajmJMAAAAJ).
 
 ## Journal Articles (2025)
 
@@ -230,9 +230,9 @@ For a complete publication list, please see my [CV](https://scholar.google.com/c
 - Zhan Shi
 - Lanfang Sun (Expected 2026)
 - Zicong Song (Expected 2026)
-- Fangzhou Jin (Expected 2025; University Postgraduate Fellowship)
 
 ## Graduated Students
+- Fangzhou Jin (2025; University Postgraduate Fellowship)
 - Keyi Zhou (2023)
 - Tracey Chen (2023)
 - Fei He (EdD, 2020)
