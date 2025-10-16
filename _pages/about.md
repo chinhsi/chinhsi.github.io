@@ -29,7 +29,6 @@ My research interests include:
 I have published over 60 peer-reviewed journal articles in leading journals such as *Computers & Education*, *Language Learning & Technology*, *The Modern Language Journal*, and *British Journal of Educational Technology*. My work has been cited over 4,500 times according to [Google Scholar](https://scholar.google.com/citations?user=MIajmJMAAAAJ), with an h-index of 31 and i10-index of 52. I am ranked in the **top 1% of researchers worldwide in Education (2025)**.
 
 # 🔥 News
-- *2025.11*: Invited talk on "AI and Education" (November 10, 2025)
 - *2025.10*: Five papers accepted to AERA 2025 annual meeting in Denver
 - *2025.01*: New paper published in *International Journal of Applied Linguistics* on ChatGPT in L2 academic writing
 - *2024.11*: Keynote speech at 2024 International Conference on Internet Chinese Education

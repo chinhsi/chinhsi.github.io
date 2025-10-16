@@ -9,9 +9,6 @@ author_profile: true
 
 ## 2025
 
-**November 2025**
-- Invited talk on "AI and Education" (November 10, 2025)
-
 **October 2025**
 - Five papers accepted to AERA 2025 annual meeting in Denver, Colorado (April 23-27, 2025)
 
