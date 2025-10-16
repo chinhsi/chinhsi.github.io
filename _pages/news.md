@@ -9,9 +9,6 @@ author_profile: true
 
 ## 2025
 
-**October 2025**
-- Five papers accepted to AERA 2025 annual meeting in Denver, Colorado (April 23-27, 2025)
-
 **January 2025**
 - New paper published in *International Journal of Applied Linguistics*: "From clueless to confident: How ChatGPT transforms academic writing in Chinese as a second language"
 - Paper accepted in *Computers in Human Behavior*: "Modeling AI-assisted writing: How self-regulated learning influences writing outcomes"
@@ -20,6 +17,9 @@ author_profile: true
 
 **November 2024**
 - Keynote speech at 2024 International Conference on Internet Chinese Education, Taitung, Taiwan
+
+**October 2024**
+- Five papers accepted to AERA 2025 annual meeting in Denver, Colorado (April 23-27, 2025)
 
 **July 2024**
 - Invited talk at the Second International Graduate Student Exchange Camp of Chinese Character Learning, Zhengzhou University
